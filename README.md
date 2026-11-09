@@ -30,7 +30,7 @@ This system organizes data and enables efficient analysis using SQL.
 
 ## 🧩 ERD
 
-![ERD](erd/ERD.png)
+![ERD](relationship%20database/ERD.png)
 
 ---
 
