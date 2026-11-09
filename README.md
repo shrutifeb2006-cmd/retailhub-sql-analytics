@@ -30,7 +30,7 @@ This system organizes data and enables efficient analysis using SQL.
 
 ## 🧩 ERD
 
-![ERD](relationship%20database/ERD.png)
+![ERD](retailHub_project/relationship%20database/ERD.png)
 
 ---
 
